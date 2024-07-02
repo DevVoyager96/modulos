@@ -1,4 +1,4 @@
-// app.js
+
 
 // Importando as funções do módulo areas.js
 const { areaCirculo, areaTriangulo, areaRetangulo } = require('./Áreas');
